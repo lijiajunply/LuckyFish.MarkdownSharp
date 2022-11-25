@@ -20,7 +20,7 @@ namespace LuckyFish.MarkdownSharp.Lib
             ToStringBuilder();
         }
         /// <summary>
-        /// 翻译，将context翻译成List<MarkdownNode>(RootNode)
+        /// 将context翻译成List&lt;MarkdownNode&gt;(RootNode)
         /// </summary>
         private void Transform()
         {
